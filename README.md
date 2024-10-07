@@ -44,7 +44,7 @@ flutter run
 ```
 
 ## Screenshots
-![Location Input Screen](https://github.com/KART1KEY-PATEL/LocationSearch-RideSense//blob/main/assets/readme_assets/image1.jpeg "Location Input Screen")
+![Location Input Screen](https://github.com/KART1KEY-PATEL/LocationSearch-RideSense//blob/main/assets/image1.jpeg "Location Input Screen")
 ![Map Display Screen](https://github.com/KART1KEY-PATEL/LocationSearch-RideSense/blob/main/assets/readme_assets/image2.jpeg "Map Display Screen")
 ![Map Terrian Screen](https://github.com/KART1KEY-PATEL/LocationSearch-RideSense/blob/main/assets/readme_assets/image3.jpeg "Map Terrian Screen")
 
